@@ -23,33 +23,6 @@ Welcome to my **#100DaysOfCode** journey with
 
 ---
 
-## 📅 Progress Log
-
-### ✅ Day 1
-
-* Variables, data types, input/output
-* Built: Band Name Generator
-
-### ✅ Day 2
-
-* Data types, type conversion, math operations
-* Built: Tip Calculator
-
-### ✅ Day 3
-
-* Control Flow, conditional statements, logical operators
-* Built: **Treasure Island** (text-based adventure game)
-
----
-
-## 🛠️ Projects
-
-* 🎸 Band Name Generator
-* 💰 Tip Calculator
-* 🏝️ Treasure Island Game
-
----
-
 ## 🔥 Rules
 
 * Code every day
